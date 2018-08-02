@@ -4,3 +4,4 @@ console.log('33')
 console.log('revert')
 
 console.log('commit1')
+console.log('commit2')
